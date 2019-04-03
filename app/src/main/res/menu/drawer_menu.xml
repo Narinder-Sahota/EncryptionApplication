@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item android:id="@+id/nav_btnHome"
+            android:icon="@drawable/ic_home_black_24dp"
+            android:title="Home"/>
+        <item android:id="@+id/nav_btnAccount"
+            android:icon="@drawable/ic_account_circle_black_24dp"
+            android:title="Account Info"/>
+        <item android:id="@+id/nav_btnHelp"
+            android:icon="@drawable/help_outline_black_24dp"
+            android:title="Help"/>
+    </group>
+    <item android:title="Leave app">
+        <menu>
+            <item android:id="@+id/nav_btnLogout"
+                android:icon="@drawable/ic_exit_to_app_black_24dp"
+                android:title="Logout"/>
+        </menu>
+
+    </item>
+
+
+
+
+</menu>

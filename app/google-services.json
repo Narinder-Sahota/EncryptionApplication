@@ -1,0 +1,44 @@
+{
+  "project_info": {
+    "project_number": "43661777137",
+    "firebase_url": "https://allvotes-2fc99.firebaseio.com",
+    "project_id": "allvotes-2fc99",
+    "storage_bucket": "allvotes-2fc99.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:43661777137:android:cbcbc076ee097605",
+        "android_client_info": {
+          "package_name": "v.all.encryptapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "43661777137-efkcd37runfi60haf9r6gqbgdt59u31a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "v.all.encryptapp",
+            "certificate_hash": "5fe8d7ccb37d958b73706fad8f9ee77629458d61"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1fiJtGGckcGeeXDK9gGH6Qaa31ou4VtA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "43661777137-oc0b468vcgou1jm50k6absb7ahnr4sh7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
